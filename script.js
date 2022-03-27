@@ -2,7 +2,7 @@ document.addEventListener("contextmenu", (event) => event.preventDefault());
 
 var started = false;
 
-var audio = new Audio("assets/rage.mp3");
+var audio = new Audio("assets/Rage vs. Luv - Playboi Carti (Official AMV _ Visual) prod @Tre Savage.mp3");
 function play() {
 	started = !started;
 	if (started) {
